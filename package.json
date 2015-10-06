@@ -1,0 +1,22 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "nodejs-in-action-example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danli741/ns_chatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danli741/ns_chatroom/issues"
+  },
+  "homepage": "https://github.com/Danli741/ns_chatroom#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
